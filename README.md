@@ -1,5 +1,6 @@
 # eCommerce-Transactions-Dataset-Analysis
-!("C:\Users\manas\OneDrive\Desktop\Zeotap Data Analyst Intern\pair_plot.png")
+![pair_plot](https://github.com/user-attachments/assets/f9c91999-ed02-4e5e-97ec-8fee0aecba1b)
+
 # Overview:
 Provided with an eCommerce Transactions dataset consisting of three files:
 Customers.csv, Products.csv, and Transactions.csv.Perform
