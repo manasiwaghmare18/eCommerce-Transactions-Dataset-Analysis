@@ -1,7 +1,7 @@
 # eCommerce-Transactions-Dataset-Analysis
-
-**Overview:**
-You are provided with an eCommerce Transactions dataset consisting of three files:
+!("C:\Users\manas\OneDrive\Desktop\Zeotap Data Analyst Intern\pair_plot.png")
+# Overview:
+Provided with an eCommerce Transactions dataset consisting of three files:
 Customers.csv, Products.csv, and Transactions.csv.Perform
 exploratory data analysis (EDA), build predictive models, and derive actionable insights. This
 assignment will test your data analysis, machine learning, and business insight generation skills.
