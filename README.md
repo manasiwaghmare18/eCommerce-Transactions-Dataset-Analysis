@@ -1,7 +1,5 @@
 # eCommerce-Transactions-Dataset-Analysis
 
-**Data Science Assignment: eCommerce Transactions Dataset**
-
 **Overview:**
 You are provided with an eCommerce Transactions dataset consisting of three files:
 Customers.csv, Products.csv, and Transactions.csv.Perform
